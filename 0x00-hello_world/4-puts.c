@@ -1,4 +1,4 @@
-#inclue <stdio.h>
+#include <stdio.h>
 
 /* A program */
 int main(void){
